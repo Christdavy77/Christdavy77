@@ -18,30 +18,18 @@ Passionné par la défense des systèmes et l'analyse réseaux, je forge mes com
 <table>
   <tr>
     <td align="center" width="150">
-      <img src="https://images.credly.com/images/6817ef36-749e-4c15-a740-410719875e53/CCNA_ENSA_7.0.png" width="120" alt="CCNA 3 Badge"/><br />
-      <b>CCNA 3 Validé</b>
+      <img src="https://img.shields.io/badge/Cisco-CCNA_3-blue?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA 3"/><br />
+      <b>Validé</b>
     </td>
     <td>
       <b>Cisco Certified Network Associate (ENSA)</b><br />
       <i>Enterprise Networking, Security, and Automation</i><br />
-      • Maîtrise de la configuration OSPF, NAT, et des concepts de sécurité réseau.<br />
-      • Compétences en automatisation et virtualisation des réseaux.
+      • Maîtrise OSPF, NAT, et sécurité réseau.<br />
+      • Automatisation et virtualisation.
     </td>
   </tr>
 </table>
 
-- 🛰️ **Cisco CCNA 1 & 2** - *En cours de finalisation*
-- ☁️ **Microsoft Azure Fundamentals (AZ-900)** - *En préparation*
-
----
-
-### 📈 Mes Statistiques GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Christdavy77&show_icons=true&theme=radical" alt="Stats de Christ Erwan" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christdavy77&layout=compact&theme=radical" alt="Top Langages" />
-</p>
 ---
 
 ### 🛠️ Bagage Technique
