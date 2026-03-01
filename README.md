@@ -18,7 +18,7 @@ Passionné par la défense des systèmes et l'analyse réseaux, je forge mes com
 <table>
   <tr>
     <td align="center" width="150">
-      <img src="https://images.credly.com/size/220x220/images/6817ef36-749e-4c15-a740-410719875e53/CCNA_ENSA_7.0.png" width="100" alt="CCNA 3 Badge"/><br />
+      <img src="https://images.credly.com/images/6817ef36-749e-4c15-a740-410719875e53/CCNA_ENSA_7.0.png" width="120" alt="CCNA 3 Badge"/><br />
       <b>CCNA 3 Validé</b>
     </td>
     <td>
@@ -33,6 +33,15 @@ Passionné par la défense des systèmes et l'analyse réseaux, je forge mes com
 - 🛰️ **Cisco CCNA 1 & 2** - *En cours de finalisation*
 - ☁️ **Microsoft Azure Fundamentals (AZ-900)** - *En préparation*
 
+---
+
+### 📈 Mes Statistiques GitHub
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Christdavy77&show_icons=true&theme=radical" alt="Stats de Christ Erwan" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christdavy77&layout=compact&theme=radical" alt="Top Langages" />
+</p>
 ---
 
 ### 🛠️ Bagage Technique
