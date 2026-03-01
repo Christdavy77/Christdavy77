@@ -51,8 +51,13 @@ Passionné par la défense des systèmes et l'analyse réseaux, je forge mes com
 ---
 
 ### 📈 Mes Statistiques GitHub
-![Stats de Christ Erwan](https://github-readme-stats.vercel.app/api?username=Christdavy77&show_icons=true&theme=radical)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Christdavy77&layout=compact&theme=radical)
+<p align="left">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Christdavy77&show_icons=true&theme=dracula" alt="Stats de Christ" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Christdavy77&layout=compact&theme=dracula" alt="Langages de Christ" />
+</p>
 
 ---
 
