@@ -6,11 +6,32 @@
 ---
 
 ### 🚀 À propos de moi
-Passionné par la défense des systèmes et l'analyse réseaux, je forge mes compétences au sein de l'ÉSTIAM. Mon parcours mixe une base solide en **Développement Web** (IFRAN) et une spécialisation pointue en **Systèmes & Réseaux**. 
+Passionné par la défense des systèmes et l'analyse réseaux, je forge mes compétences au sein de l'ÉSTIAM. Mon parcours mixe une base solide en **Développement Web** et une spécialisation pointue en **Systèmes & Réseaux**. 
 
 - 🛡️ **Focus :** Sécurité offensive/défensive (CIA, OWASP, CCNA).
 - ⚙️ **Environnement :** Administration Linux/Windows & Cloud Azure.
 - 🧠 **Veille active :** TryHackMe, Microsoft Learn, HackMD.
+
+---
+
+### 📜 Certifications & Badges
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://images.credly.com/size/220x220/images/6817ef36-749e-4c15-a740-410719875e53/CCNA_ENSA_7.0.png" width="100" alt="CCNA 3 Badge"/><br />
+      <b>CCNA 3 Validé</b>
+    </td>
+    <td>
+      <b>Cisco Certified Network Associate (ENSA)</b><br />
+      <i>Enterprise Networking, Security, and Automation</i><br />
+      • Maîtrise de la configuration OSPF, NAT, et des concepts de sécurité réseau.<br />
+      • Compétences en automatisation et virtualisation des réseaux.
+    </td>
+  </tr>
+</table>
+
+- 🛰️ **Cisco CCNA 1 & 2** - *En cours de finalisation*
+- ☁️ **Microsoft Azure Fundamentals (AZ-900)** - *En préparation*
 
 ---
 
@@ -22,14 +43,6 @@ Passionné par la défense des systèmes et l'analyse réseaux, je forge mes com
 | **Systèmes & Cloud** | Linux, Windows Server, Microsoft Azure |
 | **Développement** | Python, C, SQL, JavaScript, HTML/CSS |
 | **Outils NoCode** | Glide, Airtable, Zapier, Figma |
-
----
-
-### 📜 Certifications & Formations
-- 🎓 **Bachelor Cybersécurité & Systèmes** - ÉSTIAM (En cours)
-- 🛰️ **Cisco CCNA** - *En préparation (Cible 2026)*
-- ☁️ **Microsoft Azure Fundamentals (AZ-900)** - *En préparation (Cible 2026)*
-- 🌐 **Développement Web Fullstack** - IFRAN Abidjan (2024)
 
 ---
 
@@ -47,9 +60,9 @@ Passionné par la défense des systèmes et l'analyse réseaux, je forge mes com
 ---
 
 ### 🤝 Me contacter
-- **LinkedIn :** [Ton Profil LinkedIn ici](Lien_Vers_Ton_LinkedIn)
+- **LinkedIn :** [Christ Erwan BROU](https://www.linkedin.com/in/christ-brou/)
 - **Email :** brouchrist178@gmail.com
-- **📞 :** 06 86 01 38 06
+- **Téléphone :** 06 86 01 38 06
 
 ---
 *« La cybersécurité n'est pas un produit, c'est un processus. »*
