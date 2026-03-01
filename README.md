@@ -18,8 +18,8 @@ Passionné par la défense des systèmes et l'analyse réseaux, je forge mes com
 <table>
   <tr>
     <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Cisco-CCNA_3-blue?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA 3"/><br />
-      <b>Validé</b>
+      <img src="https://img.shields.io/badge/Cisco-CCNA_3_Validé-blue?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA 3"/><br />
+      <b>ENSA</b>
     </td>
     <td>
       <b>Cisco Certified Network Associate (ENSA)</b><br />
